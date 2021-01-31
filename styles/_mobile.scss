@@ -85,4 +85,12 @@
  .projects {
      grid-template-columns: repeat(1, 1fr);
  }
+#contacts {
+    text-align: center;
+
+
+    h1 {
+        font-size: 10vh;
+    }
+}
 }
